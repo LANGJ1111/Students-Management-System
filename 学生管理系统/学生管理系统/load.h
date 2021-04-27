@@ -1,0 +1,21 @@
+#pragma once
+#include "initial.h"
+
+stu* stu_class1_load();
+stu* stu_class2_load();
+stu* stu_class3_load();
+stu* stu_class4_load();
+stu* stu_class5_load();
+stu_id* stu_id_load();
+tch_id* tch_id_load();
+stu* stu_class1_temp_load();
+stu* stu_class2_temp_load();
+stu* stu_class3_temp_load();
+stu* stu_class4_temp_load();
+stu* stu_class5_temp_load();
+stu_id* stu_id_temp_load();
+tch_id* tch_id_temp_load();
+char stu_grades_judge_load();
+char stu_id_judge_load();
+char tch_id_judge_load();
+char update_warning_load();

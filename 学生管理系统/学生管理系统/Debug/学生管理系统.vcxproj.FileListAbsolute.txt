@@ -1,0 +1,2 @@
+C:\Users\lenovo\Desktop\学生管理系统\学生管理系统\Debug\学生管理系统.exe
+C:\Users\lenovo\Desktop\学生管理系统\学生管理系统\Debug\学生管理系统.pdb
